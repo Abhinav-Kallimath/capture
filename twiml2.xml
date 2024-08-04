@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say>A Motion was detected by your CAPTURE module from RASPBERRY PI. The photo of the culprit is sent to your gmail, please check</Say>
+</Response>
+
