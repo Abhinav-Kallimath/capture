@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say>Motion detected! A photo has been taken and sent.</Say>
+  <Say>This is an alert from your Raspberry Pi, A Motion was detected from your CAPTURE! A photo has been taken and sent to your gmail.</Say>
 </Response>
